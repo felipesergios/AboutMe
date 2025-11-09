@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[92349,["/_next/static/chunks/43ccbd382cbdec22.js"],"default"]
-3:I[10571,["/_next/static/chunks/43ccbd382cbdec22.js"],"default"]
-4:I[2497,["/_next/static/chunks/43ccbd382cbdec22.js"],"default"]
-5:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
+2:I[92349,["/AboutMe/_next/static/chunks/5af7952b171238e8.js"],"default"]
+3:I[10571,["/AboutMe/_next/static/chunks/5af7952b171238e8.js"],"default"]
+4:I[2497,["/AboutMe/_next/static/chunks/5af7952b171238e8.js"],"default"]
+5:I[97367,["/AboutMe/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-:HL["/_next/static/chunks/855df03fd8a04913.css","style"]
-0:{"buildId":"rRuOOIH9uJc2bKFnCqhch","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"Home-module__g21JLG__header","children":["$","nav",null,{"children":[["$","h1",null,{"className":"Home-module__g21JLG__logo","children":"The infrastructure guy"}],["$","ul",null,{"className":"Home-module__g21JLG__nav","children":["$","li",null,{"children":"Entre em contato"}]}]]}]}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","footer",null,{"className":"Home-module__g21JLG__footer","children":["$","p",null,{"children":"© 2025 TheInfraGuy. All rights reserved."}]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/855df03fd8a04913.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/43ccbd382cbdec22.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+:HL["/AboutMe/_next/static/chunks/855df03fd8a04913.css","style"]
+0:{"buildId":"ETWu9IoGpcEL716f4Ceh3","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"Home-module__g21JLG__header","children":["$","nav",null,{"children":[["$","h1",null,{"className":"Home-module__g21JLG__logo","children":"The infrastructure guy"}],["$","ul",null,{"className":"Home-module__g21JLG__nav","children":["$","li",null,{"children":"Entre em contato"}]}]]}]}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","footer",null,{"className":"Home-module__g21JLG__footer","children":["$","p",null,{"children":"© 2025 TheInfraGuy. All rights reserved."}]}]],[["$","link","0",{"rel":"stylesheet","href":"/AboutMe/_next/static/chunks/855df03fd8a04913.css","precedence":"next"}],["$","script","script-0",{"src":"/AboutMe/_next/static/chunks/5af7952b171238e8.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
 7:null
