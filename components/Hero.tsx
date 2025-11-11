@@ -1,6 +1,8 @@
 'use client'
-import { motion } from "framer-motion";
-import styles from "../styles/Home.module.css";
+import { motion } from 'framer-motion'
+import styles from '../styles/Home.module.css'
+
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
 
 export default function Hero() {
   return (
@@ -20,19 +22,21 @@ export default function Hero() {
         transition={{ delay: 0.3, duration: 1 }}
         viewport={{ once: true }}
       >
-      Soluções inteligentes e escaláveis em infraestrutura e Cloud
+        Soluções inteligentes e escaláveis em infraestrutura e Cloud
       </motion.p>
 
-      <motion.img
-        src="/front.png"
-        alt="MacBook"
-        className={styles.heroImage}
+      <motion.div
         initial={{ opacity: 0, scale: 0.9 }}
         whileInView={{ opacity: 1, scale: 0.9 }}
         transition={{ duration: 1 }}
         viewport={{ once: true }}
-      />
-
+      >
+        <img
+          src={`${basePath}/front.png`}
+          alt="HeroImage"
+          className={styles.heroImage}
+        />
+      </motion.div>
     </section>
-  );
+  )
 }
